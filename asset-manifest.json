@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/practic/static/css/main.e6c13ad2.css",
+    "main.js": "/practic/static/js/main.20b839ad.js",
+    "static/media/parfum.webp": "/practic/static/media/parfum.f68b751a83c3fabd7447.webp",
+    "index.html": "/practic/index.html",
+    "main.e6c13ad2.css.map": "/practic/static/css/main.e6c13ad2.css.map",
+    "main.20b839ad.js.map": "/practic/static/js/main.20b839ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.20b839ad.js"
+  ]
+}
